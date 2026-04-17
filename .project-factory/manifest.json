@@ -1,0 +1,18 @@
+{
+  "project_name": "tradebridge",
+  "generated_at": "2026-04-17T05:51:01.708293+00:00",
+  "quality_profile": "production",
+  "documentation_policy": {
+    "no_emoji": true,
+    "plain_markdown": true
+  },
+  "stack": [
+    "cpp"
+  ],
+  "file_count": 13,
+  "artifacts": {
+    "readme": "README.md",
+    "architecture_doc": "docs/ARCHITECTURE.md",
+    "operations_doc": "docs/OPERATIONS.md"
+  }
+}
